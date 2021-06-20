@@ -1,0 +1,7 @@
+name: ProtocolLibTest
+version: 1.0
+author: ProfessorTox
+main: me.professortox.protocollibtest.ProtocolLibTest
+load: STARTUP
+depend: [ProtocolLib]
+api-version: 1.16
